@@ -23,3 +23,4 @@ If you were able to view all the selections and saw your changes they HOORAY!!!
 none
 
 ## VIDEO
+![grab-landing-page](https://github.com/nicholasamarillo/employee_tracker_wk_12/blob/main/gif/demo.gif)
