@@ -1,0 +1,26 @@
+{
+    "name": "employee_tracker_wk_12",
+    "version": "1.0.0",
+    "description": "This is an employee tracker application",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nicholasamarillo/employee_tracker_wk_12.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/nicholasamarillo/employee_tracker_wk_12/issues"
+    },
+    "homepage": "https://github.com/nicholasamarillo/employee_tracker_wk_12#readme",
+    "dependencies": {
+        "console.table": "^0.10.0",
+        "express": "^4.17.1",
+        "inquirer": "^7.3.3",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.3.3"
+    }
+}
